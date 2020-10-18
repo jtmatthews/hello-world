@@ -1,2 +1,3 @@
 # hello-world
 Gitgub training
+Hello there!  T'm just practicing my github skills...
